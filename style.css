@@ -1,0 +1,45 @@
+header {
+	background-color: #87cefa;
+	height: 50px;
+	margin: 20px;
+}
+
+#welcomeDiv {
+	background-color: #87cefa;
+	height: 200px;
+	margin: 20px;
+}
+
+#firstDiv {
+	background-color: #87cefa;
+	height: 200px;
+	width: 30.1%;
+	margin: 20px;
+	float: left;
+}
+
+#secondDiv {
+	background-color: #87cefa;
+	height: 200px;
+	width: 30.1%;
+	margin: 20px;
+	float: left;
+}
+
+#thirdDiv {
+	background-color: #87cefa;
+	height: 200px;
+	width: 30.1%;
+	margin: 20px;
+	float: left;
+}
+
+footer {
+	background-color: #87cefa;
+	height: 80px;
+	margin: 20px;
+}
+
+.clear {
+	clear: both;
+}
